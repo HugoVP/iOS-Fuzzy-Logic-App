@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9A444BDC1F1D6B89008A919D /* MembershipFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A444BDB1F1D6B89008A919D /* MembershipFunctions.swift */; };
 		9ACDC7B31F1D3D3F00CB0B2A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ACDC7B21F1D3D3F00CB0B2A /* AppDelegate.swift */; };
 		9ACDC7B51F1D3D3F00CB0B2A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ACDC7B41F1D3D3F00CB0B2A /* ViewController.swift */; };
 		9ACDC7B81F1D3D3F00CB0B2A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9ACDC7B61F1D3D3F00CB0B2A /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9A444BDB1F1D6B89008A919D /* MembershipFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MembershipFunctions.swift; sourceTree = "<group>"; };
 		9ACDC7AF1F1D3D3F00CB0B2A /* Fuzzy-Logic-App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Fuzzy-Logic-App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9ACDC7B21F1D3D3F00CB0B2A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9ACDC7B41F1D3D3F00CB0B2A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				9ACDC7B21F1D3D3F00CB0B2A /* AppDelegate.swift */,
 				9ACDC7B41F1D3D3F00CB0B2A /* ViewController.swift */,
+				9A444BDB1F1D6B89008A919D /* MembershipFunctions.swift */,
 				9ACDC7B61F1D3D3F00CB0B2A /* Main.storyboard */,
 				9ACDC7B91F1D3D3F00CB0B2A /* Assets.xcassets */,
 				9ACDC7BB1F1D3D3F00CB0B2A /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				9ACDC7B51F1D3D3F00CB0B2A /* ViewController.swift in Sources */,
 				9ACDC7B31F1D3D3F00CB0B2A /* AppDelegate.swift in Sources */,
+				9A444BDC1F1D6B89008A919D /* MembershipFunctions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -312,6 +316,7 @@
 				9ACDC7C31F1D3D3F00CB0B2A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
